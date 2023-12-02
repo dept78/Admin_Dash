@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dept78/Admin_Dash.git/static/css/main.6501f906.css",
+    "main.js": "/dept78/Admin_Dash.git/static/js/main.394f5859.js",
+    "static/js/787.ff050208.chunk.js": "/dept78/Admin_Dash.git/static/js/787.ff050208.chunk.js",
+    "index.html": "/dept78/Admin_Dash.git/index.html",
+    "main.6501f906.css.map": "/dept78/Admin_Dash.git/static/css/main.6501f906.css.map",
+    "main.394f5859.js.map": "/dept78/Admin_Dash.git/static/js/main.394f5859.js.map",
+    "787.ff050208.chunk.js.map": "/dept78/Admin_Dash.git/static/js/787.ff050208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6501f906.css",
+    "static/js/main.394f5859.js"
+  ]
+}

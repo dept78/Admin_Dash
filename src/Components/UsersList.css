@@ -1,0 +1,89 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.search-bar {
+  margin-bottom: 10px; 
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  flex-grow: 1;
+  padding: 8px; 
+  font-size: 14px; 
+}
+
+.search-bar button {
+  margin-left: 5px; 
+  padding: 6px; 
+  font-size: 12px; 
+  cursor: pointer;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th, .user-table td {
+  padding: 12px;
+  border: 1px solid #000000;
+}
+
+.user-table th {
+  background-color: #f485d1;
+}
+
+.user-table tr:hover {
+  background-color: rgb(139, 212, 233);
+}
+
+.user-table .selected {
+  background-color: rgb(150, 236, 175);
+  color: white;
+}
+
+.user-table input[type="checkbox"] {
+  background-color: rgb(242, 103, 182); 
+}
+
+.action-buttons button {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination {
+  display: flex;
+  gap: 5px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.pagination a {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  color: #555;
+}
+
+.pagination a:hover {
+  background-color: #ddd;
+}
+
+.pagination .active {
+  background-color: #4caf50;
+  color: white;
+}
+
+
+
+
+
